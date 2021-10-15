@@ -34,8 +34,8 @@ Please make it clear why you chose a specific library or framework.
 
 Bonus points:
 
-Module Federation
-E2E testing
-Inter widget communication.
+- Module  Federation
+- E2E testing
+- Inter widget communication.
 
 Plese send your completed work to jane.ooi@crypto.com either as a zip file, publically accessible repositiory.
