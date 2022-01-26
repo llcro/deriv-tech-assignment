@@ -38,4 +38,4 @@ Bonus points:
 - E2E testing
 - Inter widget communication.
 
-Plese send your completed work to jane.ooi@crypto.com either as a zip file, publically accessible repositiory.
+Please send your completed work to jane.ooi@crypto.com either as a zip file, publically accessible repositiory.
